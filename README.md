@@ -11,8 +11,8 @@ My work sits at the intersection of **LLM systems**, **retrieval**, **structured
 ### [HR Wizard / OPIT-Thesis](https://github.com/silviagara/OPIT-Thesis)
 Governable HR RAG system built for a real organizational context. Designed around retrieval, prompt constraints, and traceability. Documented with strong business framing, architecture rationale, and testing outcomes.
 
-### agentic-pipeline-demo *(drafting for publication)*
-A public reference implementation of a multi-step agentic workflow: mixed input ingestion, cross-channel deduplication, structured issue analysis, and prioritized action planning.
+### [multi-agent-dev-workflow](https://github.com/silviagara/multi-agent-dev-workflow)
+A practical guide to building a multi-agent AI software development workflow: human-as-CEO/PM, CTO orchestration agent, coding agent, and a repeatable path from trigger to merge.
 
 ### [AI-Projects-OPIT](https://github.com/silviagara/AI-Projects-OPIT)
 Selected NLP and LLM coursework projects from my MSc in Applied Data Science & AI, covering transformers, multimodal workflows, and applied language systems.
