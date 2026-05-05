@@ -33,7 +33,7 @@ Right now I’m focused on:
 - retrieval and orchestration patterns
 - AI systems that support product and operational decision-making
 
-I’m especially interested in roles and projects where AI needs to be **useful, reliable, and explainable** — not just flashy.
+I’m particularly drawn to projects where AI needs to be **useful, reliable, and explainable** — not just flashy.
 
 ## Contact
 
