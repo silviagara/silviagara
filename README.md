@@ -1,85 +1,40 @@
 # Silvia Garavaglia
-```python
->>> import silvia
->>> silvia.current_status()
-"Building AI systems that don't hallucinate or break"
-```
 
----
+**Applied AI Engineer building reliable agentic systems, RAG workflows, and structured AI products.**
 
-## ⚡ Quick Facts
-```python
-profile = {
-    "location": "Málaga, Spain 🇪🇸",
-    "latest_education": "MSc Applied Data Science & AI",
-    "specialization": "Conversational AI, RAG, Prompt Engineering",
-    "motto": "Governance through constraints, not complexity",
-    
-    "recent_achievement": {
-        "project": "HR Wizard",
-        "accuracy": "99%",
-        "hallucinations": 0,
-        "status": "Production (210+ users)"
-    },
-    
-    "currently": [
-        "📚 Publishing Master's projects (2-3/week)",
-        "🧪 Experimenting with agentic AI",
-        "🎯 Building governable RAG blueprints"
-    ],
-    
-    "interests": [
-        "Turning messy docs into structured knowledge",
-        "Making AI explainable and traceable",
-        "Automation and AI-driven platforms for enterprise AI",
-        "Prompt engineering as governance"
-    ]
-}
-```
+I come from a non-traditional background in communication, languages, and problem-solving — and I now build applied AI systems that turn messy information into usable workflows.
 
----
+My work sits at the intersection of **LLM systems**, **retrieval**, **structured outputs**, and **product thinking**. I care less about AI demos that sound impressive and more about systems that are constrained, explainable, and actually useful.
 
-## 🛠️ Tech Arsenal
+## What I’ve built
 
-**Core Stack**  
-`Python` `PyTorch` `Transformers` `LangChain` `RAG` `Prompt Engineering`
+### [HR Wizard / OPIT-Thesis](https://github.com/silviagara/OPIT-Thesis)
+Governable HR RAG system built for a real organizational context. Designed around retrieval, prompt constraints, and traceability. Documented with strong business framing, architecture rationale, and testing outcomes.
 
-**Platforms**  
-`Microsoft Copilot Studio` `Gradio` `Hugging Face` `Jupyter` `Git`
+### agentic-pipeline-demo *(drafting for publication)*
+A public reference implementation of a multi-step agentic workflow: mixed input ingestion, cross-channel deduplication, structured issue analysis, and prioritized action planning.
 
-**Focus Areas**  
-`Conversational AI` `NLP` `Multimodal Learning` `Low-Code Deployment`
+### [AI-Projects-OPIT](https://github.com/silviagara/AI-Projects-OPIT)
+Selected NLP and LLM coursework projects from my MSc in Applied Data Science & AI, covering transformers, multimodal workflows, and applied language systems.
 
----
+## What I’m strong at
 
-## 🚀 What I'm Building
+- Designing multi-step LLM / agentic workflows
+- Building RAG and document-grounded AI systems
+- Using prompts as control layers, not just text generation tricks
+- Translating messy business problems into structured AI workflows
+- Writing documentation that makes AI systems understandable and maintainable
 
-| Project | Description | Tech | Status |
-|---------|-------------|------|--------|
-| [HR Wizard](https://github.com/silviagara/OPIT-Thesis) | Governable RAG for HR automation | Copilot Studio, RAG | ✅ Production |
-| [AI Projects](https://github.com/silviagara/AI-Projects-OPIT) | Master's coursework portfolio | Transformers, PyTorch | 🔄 Publishing |
-| [Personal Lab](https://github.com/silviagara/Personal-AI-Projects) | LangChain & agentic experiments | LangChain, RAG | 🧪 Exploring |
+## Current focus
 
----
+Right now I’m focused on:
+- agentic workflow design
+- structured output pipelines
+- retrieval and orchestration patterns
+- AI systems that support product and operational decision-making
 
-## 💭 Philosophy
+I’m especially interested in roles and projects where AI needs to be **useful, reliable, and explainable** — not just flashy.
 
-> *"An AI system that can't explain its answers is just expensive guessing."*
+## Contact
 
-I believe in:
-- 🎯 Architecture over model size
-- 📚 Documentation quality as a feature
-- 🔍 Every response should be traceable
-- 🚀 Low-code doesn't mean low-quality
-
----
-
-## 📫 Reach Out
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/silviagaravaglia)
-
----
-```
->>> silvia.default_state()
-"Planning the next iterations and hunting for the best pizza"
-```
+- [LinkedIn](https://linkedin.com/in/silviagaravaglia)
