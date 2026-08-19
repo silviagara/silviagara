@@ -1,40 +1,40 @@
-# Silvia Garavaglia
+# [Silvia Garavaglia](https://linkedin.com/in/silviagaravaglia)
 
-**Applied AI Engineer building reliable agentic systems, RAG workflows, and structured AI products.**
+### 🗺️ *Many lives, four languages, one through-line: figure it out, then make it better.*
 
-I come from a non-traditional background in communication, languages, and problem-solving — and I now build applied AI systems that turn messy information into usable workflows.
+I've lived in 5 countries, started from zero each time, and picked up along
+the way. I never had a straight path — and that turned out to be the skill. I learn fast,
+especially when things are moving. 
 
-My work sits at the intersection of **LLM systems**, **retrieval**, **structured outputs**, and **product thinking**. I care less about AI demos that sound impressive and more about systems that are constrained, explainable, and actually useful.
+Before AI engineering: communication, operations, project management. Before that: moving,
+adapting, building from scratch. The through-line has always been the same — understand
+the system, then make it work better for the people inside it.
 
-## What I’ve built
+Now I do that with code. 💁🏻‍♀️
 
-### [HR Wizard / OPIT-Thesis](https://github.com/silviagara/OPIT-Thesis)
-Governable HR RAG system built for a real organizational context. Designed around retrieval, prompt constraints, and traceability. Documented with strong business framing, architecture rationale, and testing outcomes.
+---
 
-### [multi-agent-dev-workflow](https://github.com/silviagara/multi-agent-dev-workflow)
-A practical guide to building a multi-agent AI software development workflow: human-as-CEO/PM, CTO orchestration agent, coding agent, and a repeatable path from trigger to merge.
+## What I've built
 
-### [AI-Projects-OPIT](https://github.com/silviagara/AI-Projects-OPIT)
-Selected NLP and LLM coursework projects from my MSc in Applied Data Science & AI, covering transformers, multimodal workflows, and applied language systems.
+🤖 **[multi-agent-dev-workflow](https://github.com/silviagara/multi-agent-dev-workflow)**
+— what happens when you stop treating AI as a chat tool and start giving it a job title
 
-## What I’m strong at
+📄 **[HR Wizard / OPIT-Thesis](https://github.com/silviagara/OPIT-Thesis)**
+— RAG that had to be right, not just good: 99% accuracy, zero hallucinations, real users
 
-- Designing multi-step LLM / agentic workflows
-- Building RAG and document-grounded AI systems
-- Using prompts as control layers, not just text generation tricks
-- Translating messy business problems into structured AI workflows
-- Writing documentation that makes AI systems understandable and maintainable
+🧠 **[AI-Projects-OPIT](https://github.com/silviagara/AI-Projects-OPIT)**
+— where I learned that models are easy and everything else is the actual problem
 
-## Current focus
+---
 
-Right now I’m focused on:
-- agentic workflow design
-- structured output pipelines
-- retrieval and orchestration patterns
-- AI systems that support product and operational decision-making
+## At work
 
-I’m particularly drawn to projects where AI needs to be **useful, reliable, and explainable** — not just flashy.
+As an **AI Solutions Engineer** at [Mindsight Ventures](https://www.mindsightventures.ai/) I build production AI across
+healthcare and fintech — sectors where the system has to work, full stop.
 
-## Contact
+Computer vision for medical imaging. Conversational AI for vulnerable users.
+RAG that cannot hallucinate. Agents that coordinate development work.
+Each project different. Each one in production.
 
-- [LinkedIn](https://linkedin.com/in/silviagaravaglia)
+*Models are the easy part. Getting AI to work for real users, in regulated
+environments, where mistakes have consequences — that's the interesting problem.*
