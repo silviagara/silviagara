@@ -1,40 +1,32 @@
-# [Silvia Garavaglia](https://linkedin.com/in/silviagaravaglia)
+# Silvia Garavaglia
 
-### 🗺️ *Many lives, four languages, one through-line: figure it out, then make it better.*
+**AI Solutions Engineer · Applied AI · Agentic Systems**
 
-I've lived in 5 countries, started from zero each time, and picked up along
-the way. I never had a straight path — and that turned out to be the skill. I learn fast,
-especially when things are moving. 
+*Many lives, four languages, one through-line: figure it out, then make it better.*
 
-Before AI engineering: communication, operations, project management. Before that: moving,
-adapting, building from scratch. The through-line has always been the same — understand
-the system, then make it work better for the people inside it.
+I build AI applications, currently across computer vision and conversational AI in healthcare. My work spans architecture, implementation, debugging and evaluation — with a particular interest in what makes AI systems reliable beyond the demo.
 
-Now I do that with code. 💁🏻‍♀️
+I like thoughtful engineering, sensible constraints and knowing *why* something works, not just that it does.
+
+## Selected work
+
+### 🤖 [Multi-Agent Dev Workflow](https://github.com/silviagara/multi-agent-dev-workflow)
+A structured approach to AI-native development, with specialized agents for orchestration and coding, human approval gates and artifact-based validation.
+
+**The idea:** more autonomy isn't always better. Better boundaries are.
+
+### 📄 [HR Wizard — Enterprise RAG](https://github.com/silviagara/OPIT-Thesis)
+An HR assistant built with Microsoft Copilot Studio, combining document-grounded retrieval, deterministic routing across 22 topics and structured LLM evaluation.
+
+**The result:** 333/336 successful pre-launch tests (99%), with no hallucinations observed in the test set.
+
+### 🧠 [Applied AI Portfolio](https://github.com/silviagara/AI-Projects-OPIT)
+Seven MSc projects spanning transformer fine-tuning, NLP, multimodal learning, speech recognition and responsible AI.
+
+**The common thread:** exploring different approaches, understanding their trade-offs and testing what actually works.
 
 ---
 
-## What I've built
+**Python · FastAPI · OpenCV · RAG · LLM Evaluation · Agentic Workflows**
 
-🤖 **[multi-agent-dev-workflow](https://github.com/silviagara/multi-agent-dev-workflow)**
-— what happens when you stop treating AI as a chat tool and start giving it a job title
-
-📄 **[HR Wizard / OPIT-Thesis](https://github.com/silviagara/OPIT-Thesis)**
-— RAG that had to be right, not just good: 99% accuracy, zero hallucinations, real users
-
-🧠 **[AI-Projects-OPIT](https://github.com/silviagara/AI-Projects-OPIT)**
-— where I learned that models are easy and everything else is the actual problem
-
----
-
-## At work
-
-As an **AI Solutions Engineer** at [Mindsight Ventures](https://www.mindsightventures.ai/) I build production AI across
-healthcare and fintech — sectors where the system has to work, full stop.
-
-Computer vision for medical imaging. Conversational AI for vulnerable users.
-RAG that cannot hallucinate. Agents that coordinate development work.
-Each project different. Each one in production.
-
-*Models are the easy part. Getting AI to work for real users, in regulated
-environments, where mistakes have consequences — that's the interesting problem.*
+[LinkedIn](https://linkedin.com/in/silviagaravaglia) · [Email](mailto:silviagaravaglia.address@gmail.com)
